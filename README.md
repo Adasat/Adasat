@@ -1,12 +1,13 @@
 <div align="center">
-  <img src='./images/HiADASAT.png' title="Hi" alt="Hi" width="450"/>
+  <img src="./images/github-header-banner-ADASAT.png" alt="Header Banner" width="100%"/>
+  <br/><br/>  
   
   ### 🏝️ Fullstack Developer from Canary Islands
   **Passionate about Frontend magic and robust Backend architecture.**
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=adasat&label=Profile%20views&color=0e75b6&style=flat-square" alt="adasat" />
-    <a href="https://www.linkedin.com/in/pedro-bonilla-bolanos/" target="blank">
+    <a href="https://www.linkedin.com/in/pedro-bonilla-bolanos/" target="u_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
@@ -26,13 +27,9 @@
         <li><b>Easy Learner:</b> Always evolving with the ecosystem.</li>
         <li><b>Autonomous & Co-worker:</b> Capable of leading tasks or vibing with a team.</li>
       </ul>
+</br>
     </td>
-    <td width="50%" style="border: none;" align="center">
-       <img src="./images/steady-removebg-preview.png" width="40"/> <i>Steady</i> &nbsp;
-       <img src="./images/easyLearner-removebg-preview.png" width="40"/> <i>Learner</i> <br/>
-       <img src="./images/autonoma-removebg-preview.png" width="40"/> <i>Autonomous</i> &nbsp;
-       <img src="./images/co-worker-removebg-preview.png" width="40"/> <i>Team Player</i>
-    </td>
+   
   </tr>
 </table>
 
@@ -63,6 +60,8 @@
     </td>
   </tr>
 </table>
-
-<br/>
+<div align="center">
+  <!-- Banner inferior con esquina doblada abajo a la izquierda -->
+  <img src="./images/Footer-ADASAT.png" alt="Footer Banner" width="100%"/>
+</div>
 
